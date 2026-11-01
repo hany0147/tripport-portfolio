@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="오늘출국 로고" width="160" />
+</p>
+
 # 오늘출국
 
 > 여권 컨셉의 국내 여행 기록 앱
